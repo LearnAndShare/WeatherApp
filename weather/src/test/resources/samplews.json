@@ -1,0 +1,93 @@
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Redmond, WA",
+		"city":"Redmond",
+		"state":"WA",
+		"state_name":"Washington",
+		"country":"US",
+		"country_iso3166":"US",
+		"zip":"98052",
+		"magic":"1",
+		"wmo":"99999",
+		"latitude":"47.68289948",
+		"longitude":"-122.12090302",
+		"elevation":"61.00000000"
+		},
+		"observation_location": {
+		"full":"Education Hill - 88th St, Redmond, Washington",
+		"city":"Education Hill - 88th St, Redmond",
+		"state":"Washington",
+		"country":"US",
+		"country_iso3166":"US",
+		"latitude":"47.680984",
+		"longitude":"-122.115097",
+		"elevation":"282 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"KWAREDMO58",
+		"observation_time":"Last Updated on May 12, 11:07 PM PDT",
+		"observation_time_rfc822":"Tue, 12 May 2015 23:07:31 -0700",
+		"observation_epoch":"1431497251",
+		"local_time_rfc822":"Tue, 12 May 2015 23:07:43 -0700",
+		"local_epoch":"1431497263",
+		"local_tz_short":"PDT",
+		"local_tz_long":"America/Los_Angeles",
+		"local_tz_offset":"-0700",
+		"weather":"Rain",
+		"temperature_string":"54.5 F (12.5 C)",
+		"temp_f":54.5,
+		"temp_c":12.5,
+		"relative_humidity":"85%",
+		"wind_string":"Calm",
+		"wind_dir":"NW",
+		"wind_degrees":315,
+		"wind_mph":0.7,
+		"wind_gust_mph":"1.1",
+		"wind_kph":1.1,
+		"wind_gust_kph":"1.8",
+		"pressure_mb":"1011",
+		"pressure_in":"29.87",
+		"pressure_trend":"+",
+		"dewpoint_string":"50 F (10 C)",
+		"dewpoint_f":50,
+		"dewpoint_c":10,
+		"heat_index_string":"NA",
+		"heat_index_f":"NA",
+		"heat_index_c":"NA",
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"54.5 F (12.5 C)",
+		"feelslike_f":"54.5",
+		"feelslike_c":"12.5",
+		"visibility_mi":"8.0",
+		"visibility_km":"12.9",
+		"solarradiation":"--",
+		"UV":"0","precip_1hr_string":"0.00 in ( 0 mm)",
+		"precip_1hr_in":"0.00",
+		"precip_1hr_metric":" 0",
+		"precip_today_string":"0.00 in (0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0",
+		"icon":"rain",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_rain.gif",
+		"forecast_url":"http://www.wunderground.com/US/WA/Redmond.html",
+		"history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KWAREDMO58",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=47.680984,-122.115097",
+		"nowcast":""
+	}
+}
