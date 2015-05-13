@@ -234,7 +234,7 @@
 		<artifactId>tomcat7-maven-plugin</artifactId>
 		<version>2.2</version>
 		<configuration>
-          <port>9080</port>
+          <port>9180</port>
           <path>/weather</path>
         </configuration>
 	</plugin>
