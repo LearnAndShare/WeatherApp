@@ -109,8 +109,7 @@ public class WeatherController {
 	@RequestMapping(value="/", method=RequestMethod.GET)
 	public String loadWeatherPage(ModelMap m) {
         m.addAttribute("weather", new Weather());
-       
-		return "weather";
+       return "weather";
 	}
 	
 	
